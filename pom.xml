@@ -50,7 +50,7 @@
     <!--
     This is a version of Storm from the Hortonworks repository that is compatible with HDInsight.
     -->
-    <storm.version>1.1.1</storm.version>
+    <storm.version>1.2.0</storm.version>
   </properties>
 
   <dependencies>
